@@ -17,6 +17,20 @@ This project is inspired by [ProMed Health Plus](https://promedhealthplus.com), 
 - **Form Validation**: Client-side validation for all forms
 - **Toast Notifications**: Real-time feedback for user actions
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](./src/assets/images/1.png)
+
+### Registration Page
+![Registration Page](./src/assets/images/2.png)
+
+### Homepage
+![Homepage](./src/assets/images/3.png)
+
+### Forgot Password
+![Forgot Password](./src/assets/images/4.png)
+
 ## 🛠️ Technologies Used
 
 - **React**: Frontend framework
@@ -79,8 +93,12 @@ healthcare-auth-app/
 ├── src/
 │   ├── assets/
 │   │   └── images/
-│   │       ├── image1.png          # Login page image
-│   │       └── image2.png          # Register page image
+│   │       ├── 1.png                # Login page image
+│   │       ├── 2.png                # Register page image
+│   │       ├── 3.png                # Homepage image
+│   │       ├── 4.png                # Forgot password image
+│   │       ├── image1.png           # Legacy login page image
+│   │       └── image2.png           # Legacy register page image
 │   ├── Components/
 │   │   ├── Common/
 │   │   ├── Home/
