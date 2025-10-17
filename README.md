@@ -57,7 +57,6 @@ The `.env` file contains pre-configured EmailJS settings:
 ```env
 REACT_APP_EMAILJS_SERVICE_ID=your_service_id
 REACT_APP_EMAILJS_TEMPLATE_ID=your_reset_password_template_id
-REACT_APP_EMAILJS_WELCOME_TEMPLATE_ID=your_welcome_template_id
 REACT_APP_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 
