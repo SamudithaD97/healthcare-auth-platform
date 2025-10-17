@@ -31,6 +31,9 @@ This project is inspired by [ProMed Health Plus](https://promedhealthplus.com), 
 ### Forgot Password
 ![Forgot Password](./src/assets/images/4.png)
 
+### Email Template
+![Forgot Password](./src/assets/images/5.png)
+
 ## 🛠️ Technologies Used
 
 - **React**: Frontend framework
